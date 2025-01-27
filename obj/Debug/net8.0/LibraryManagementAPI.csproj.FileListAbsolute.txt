@@ -1,0 +1,122 @@
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.AssemblyReference.cache
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfoInputs.cache
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfo.cs
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Data\books.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.exe
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.deps.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.runtimeconfig.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.pdb
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementAPI.props
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementAPI.props
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementAPI.props
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementAPI.styles.css
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryM.B1E5916E.Up2Date
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\refint\LibraryManagementAPI.dll
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.pdb
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.genruntimeconfig.cache
+C:\Users\DVDSTORE\Desktop\LibraryManagementAPI\obj\Debug\net8.0\ref\LibraryManagementAPI.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\appsettings.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Data\books.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.staticwebassets.endpoints.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.exe
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.deps.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.runtimeconfig.json
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\LibraryManagementAPI.pdb
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\asal com\task2\LibraryManagementAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.AssemblyReference.cache
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfoInputs.cache
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.AssemblyInfo.cs
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.csproj.CoreCompileInputs.cache
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementAPI.styles.css
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementAPI.props
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementAPI.props
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementAPI.props
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryM.B1E5916E.Up2Date
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.dll
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\refint\LibraryManagementAPI.dll
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.pdb
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\LibraryManagementAPI.genruntimeconfig.cache
+D:\asal com\task2\LibraryManagementAPI\obj\Debug\net8.0\ref\LibraryManagementAPI.dll
